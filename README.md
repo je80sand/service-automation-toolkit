@@ -39,3 +39,11 @@ Customer : John
 Address : 567 D St
 Issue : Low Light
 Status : Completed
+
+## ✅ Skills Demonstrated
+
+- Python fundamentals (functions, conditionals, string parsing)
+- Input validation and user-friendly error handling
+- Clean, readable console output formatting
+- Modular code organization (separating validation, logging, and reporting)
+- Git + GitHub workflow (commit, push, version history)
