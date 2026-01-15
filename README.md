@@ -5,6 +5,18 @@ It validates customer service tickets, builds structured job records, and output
 
 This project demonstrates practical automation, modular Python design, and readable output suitable for operational or support environments.
 
+## 🎯 Why This Project Exists
+
+This project was built to demonstrate how Python can be used to automate everyday service and field-support workflows.
+
+It mirrors real technician and service-desk tasks such as:
+- Accepting structured user input
+- Validating required information
+- Creating standardized job records
+- Producing clean, readable summaries for reporting or documentation
+
+The goal is to showcase practical, entry-level Python skills that translate directly to real operational environments.
+
 ---
 
 ## 🧠 What This Tool Does
