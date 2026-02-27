@@ -53,8 +53,8 @@ Status : Completed
 
 ## ✅ Skills Demonstrated
 
-- Python fundamentals (functions, conditionals, string parsing)
-- Input validation and user-friendly error handling
-- Clean, readable console output formatting
-- Modular code organization (separating validation, logging, and reporting)
-- Git + GitHub workflow (commit, push, version history)
+- Modular Python architecture and functional design
+- Defensive input validation and structured error handling
+- Structured CLI workflow design
+- Operational console reporting and formatted output
+- Git version control and professional GitHub workflow
