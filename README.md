@@ -15,8 +15,7 @@ It mirrors real technician and service-desk tasks such as:
 - Creating standardized job records
 - Producing clean, readable summaries for reporting or documentation
 
-The goal is to showcase practical, entry-level Python skills that translate directly to real operational environments.
-
+The goal is to showcase practical Python automation skills that translate directly to real operational environments.
 ---
 
 ## 🧠 What This Tool Does
